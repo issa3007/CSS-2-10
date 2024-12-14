@@ -1,0 +1,151 @@
+/* || General CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  padding: 64px 0 368px;
+}
+h2 {
+  display: inline-block;
+  width: 92%;
+}
+span {
+  display: inline-block;
+}
+
+/* || ID Selectors */
+
+#Frameworks {
+  border: 1px solid #F9DBAF;
+  background-color: #FEF6EE;
+  color: #B93815;
+}
+#Leadership {
+  border: 1px solid #E9D7FE;
+  background-color: #F9F5FF;
+  color: #6941C6;
+}
+#Managment {
+  border: 1px solid #D5D9EB;
+  background: #F8F9FC;
+  color: #363F72;
+}
+#Software {
+  border: 1px solid #ABEFC6;
+  background: #ECFDF3;
+  color: #067647;
+}
+#SaaS {
+  border: 1px solid #FCCEEE;
+  background: #FDF2FA;
+  color: #C11574;
+}
+#Presentation {
+  border: 1px solid #FCCEEE;
+  background-color: #FDF2FA;
+  color: #C11574;
+}
+
+/* || Class Selectors */
+
+.everything_wrapper {
+  padding: 96px;
+  background-color: #E2F7FF;
+  max-width: fit-content;
+  margin: auto;
+}
+.content_wrapper {
+  padding: 0 66px 96px;
+}
+.content {
+  padding: 0 32px;
+}
+.publish_data {
+  color: #6941C6;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+}
+.description_p {
+  color: #535862;
+  font-family: Inter;
+  font-size: 16px;
+  line-height: 24px;
+}
+.second_content_elements {
+  max-width: 384px;
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 48px;
+}
+.second_content {
+  max-width: 1216px;
+}
+.special_one {
+  margin-left: 0;
+}
+.img_wrapper {
+  display: inline-block;
+  width: 7%;
+  text-align: right;
+}
+.first_image {
+  max-width: 1216px;
+  width: 100%;
+}
+.sec_images {
+  max-width: 364px;
+  width: 100%;
+}
+.design {
+  border: 1px solid #E9D7FE;
+  background-color: #F9F5FF;
+  color: #6941C6;
+}
+.padding {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  text-align: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+}
+.research {
+  border: 1px solid #C7D7FE;
+  background-color: #EEF4FF;
+  color: #3538CD;
+}
+.tools {
+  border: 1px solid #FCCEEE;
+  background-color: #FDF2FA;
+  color: #C11574;
+}
+.product {
+  border: 1px solid #B9E6FE;
+  background-color: #F0F9FF;
+  color: #026AA2;
+}
+.arrow_wrapper {
+  margin: 8px 0;
+}
+.article_wrapper {
+  margin: 20px 0 24px;
+}
+.article_heading {
+  color: #181D27;
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 38px;
+}
+.align {
+  vertical-align: bottom;
+}
+.align_top {
+  vertical-align: top;
+}
